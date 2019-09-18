@@ -5,5 +5,6 @@ public class TestGit {
     @Test
     public void dummy() {
         System.out.println("1");
+        System.out.println("2");
     }
 }
